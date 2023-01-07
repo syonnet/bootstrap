@@ -1,0 +1,15 @@
+.contenedor-boton button{
+    background: green;
+    border: 6px solid black;
+    border-color: antiquewhite;
+    border-radius: 45%;
+    
+    margin: 12%;
+    
+}
+.contenedor-boton button:hover{
+    background: red;
+    border: 16px solid black;
+    
+    
+}
